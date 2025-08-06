@@ -1,2 +1,23 @@
-# Impacts-of-Mental-Health
-Analyzed 1,000+ survey responses using EDA and regression to assess age, gender, and income effects on mental health Created client ready visualizations  using Seaborn and Matplotlib; used OLS regression via Statsmodels to quantify demographic disparities and explore causal inference questions, presenting findings to non-technical stakeholders.
+# Mental Health and Demographics: A Data Science Study
+
+This project analyzes survey data to explore how factors like age, gender, and income affect mental health outcomes. Using Python and statistical modeling, we uncover trends and disparities that could inform public health strategies.
+
+## 🧠 Project Highlights
+- Analyzed 1,000+ survey responses using Pandas and Seaborn
+- Built regression models using `statsmodels` to quantify impact of demographic variables
+- Visualized key insights with Matplotlib and Seaborn
+- Presented findings in a clear, client-facing format
+
+## 📊 Tools Used
+- Python
+- Pandas, NumPy
+- Seaborn, Matplotlib
+- statsmodels (OLS regression)
+- Jupyter Notebook
+
+## 💡 Key Insights
+- Mental health outcomes vary significantly with age and income
+- Gender disparities are evident across several indicators
+- Visualizations highlight patterns that are not immediately obvious from raw data
+
+
